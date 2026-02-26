@@ -27,12 +27,12 @@ Building real-world analytics projects and preparing for data-driven product env
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kauz-vii&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=kauz-vii&theme=github-dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&hide_border=true&theme=github_dark" width="49%" />
 </p>
 
 ---
