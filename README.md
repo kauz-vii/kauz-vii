@@ -1,99 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kaushik Bhadra</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;SQL+%7C+PostgreSQL+%7C+Python;Turning+Data+into+Insights;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Kaushik+Bhadra;Data+Analyst;SQL+%7C+PostgreSQL+%7C+Python" />
 </p>
 
 ---
 
-## 🚀 About Me
-🎯 Aspiring **Data Analyst** passionate about solving business problems with data  
-📊 Skilled in **SQL, EDA, Data Cleaning & Query Optimization**  
-🧠 Currently learning **Advanced Analytics & Dashboarding**  
-💡 Strong interest in **Product Analytics & Business Intelligence**
+### About
+
+Data-focused problem solver with strong foundations in SQL, exploratory analysis, and performance optimization.  
+Building real-world analytics projects and preparing for data-driven product environments.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech
 
-**Languages & Databases**  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Data Analysis**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge)
-![Window Functions](https://img.shields.io/badge/Window%20Functions-SQL-orange?style=for-the-badge)
-![CTE](https://img.shields.io/badge/CTE-Advanced%20SQL-green?style=for-the-badge)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-PostgreSQL-blue?style=for-the-badge)
+`SQL` `PostgreSQL` `Python` `Pandas` `EDA` `Window Functions` `CTEs` `Git`
 
 ---
 
-## 📌 Featured Projects
+### Featured Work
 
-🔹 **Spotify Data Analysis (SQL)**  
-End-to-end analysis with EDA, business queries, window functions & performance tuning.
-
-🔹 **Retail Sales Analysis (SQL)**  
-Customer insights, category performance & trend analysis.
+**Spotify Data Analysis** → End-to-end analytics, business queries, query optimization  
+**Retail Sales Analysis** → Customer & revenue insights using SQL  
 
 ---
 
-## 🧠 Coding Profiles
+### GitHub
 
 <p align="center">
-  <a href="https://leetcode.com/kauz_vii" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kauz-vii&hide_border=true&theme=github-dark"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&hide_border=true&theme=github_dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### LeetCode
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauz-vii&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&theme=tokyonight"/>
+  <img src="https://leetcard.jacoblin.cool/kauz_vii?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
 
-## 🌐 Portfolio & Links
+### Currently Learning
 
-🔗 **GitHub Projects:**  
-https://github.com/kauz-vii  
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/kaushikbhadra07  
-
-📧 **Email:**  
-kaushik.1234.bhadra@gmail.com  
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kauz-vii&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ⚡ Current Focus
-
+<!--START_SECTION:learning-->
 - Advanced SQL for Analytics  
-- Real-world business case studies  
-- Power BI / Tableau (next step)
+- Query performance tuning  
+- Data visualization (Power BI / Tableau)  
+<!--END_SECTION:learning-->
 
 ---
 
-⭐ **"Transforming data into decisions."**
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/kaushikbhadra07) •
+[Email](mailto:kaushik.1234.bhadra@gmail.com)
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kauz-vii/kauz-vii/output/github-contribution-grid-snake-dark.svg" />
+</p>
