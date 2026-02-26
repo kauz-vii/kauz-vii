@@ -27,12 +27,12 @@ Building real-world analytics projects and preparing for data-driven product env
 ### GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kauz-vii&hide_border=true&theme=github-dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauz-vii&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://streak-stats.demolab.com?user=kauz-vii&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&hide_border=true&theme=github_dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauz-vii&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ---
@@ -57,8 +57,10 @@ Building real-world analytics projects and preparing for data-driven product env
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/kaushikbhadra07) •
-[Email](mailto:kaushik.1234.bhadra@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushikbhadra07">LinkedIn</a> •
+  <a href="mailto:kaushik.1234.bhadra@gmail.com">Email</a>
+</p>
 
 ---
 
