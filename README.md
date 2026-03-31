@@ -6,27 +6,26 @@
 
 ### About
 
-Data-focused problem solver with strong foundations in SQL, exploratory analysis, and performance optimization.  
-Building real-world analytics projects and preparing for data-driven product environments.
+I build data systems that turn raw, messy data into clear decisions.  
+Focused on SQL, analytics, and performance optimization—solving real problems through structured thinking and execution.
 
 ---
 
 ### Tech
 
-`SQL` `PostgreSQL` `Python` `Pandas` `EDA` `Window Functions` `CTEs` `Git`
+`SQL` `PostgreSQL` `Python` `Pandas` `EDA` `Window Functions` `CTEs` `Power BI` `Excel` `Git`
 
 ---
 
 ### Featured Work
 
-**Customer Intelligence & Revenue Optimization System** → Segmented 3.9K+ users to identify high-value customers & improve retention
-**FNP Sales Dashboard** → Transformed 1K+ orders into actionable KPIs for revenue & performance tracking
-**Spotify Data Analysis** → Analyzed 20K+ records; optimized SQL queries (3.7 ms → 0.1 ms)
-**Netflix Data Analysis** → Uncovered user behavior & content performance trends from large datasets
-**Retail Sales Analysis** → Extracted customer & revenue insights from large-scale SQL datasets
+- **Customer Intelligence & Revenue Optimization System** → Segmented 3.9K+ users to identify high-value customers & improve retention  
+- **Spotify Data Analysis** → Analyzed 20K+ records; optimized queries (3.7 ms → 0.1 ms)  
+- **FNP Sales Dashboard** → Transformed 1K+ orders into actionable KPIs for revenue & performance tracking  
+- **Netflix Data Analysis** → Uncovered user behavior & content performance trends  
+- **Retail Sales Analysis** → Extracted customer & revenue insights from large-scale datasets  
 
 ---
-
 
 ### LeetCode
 
