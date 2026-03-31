@@ -19,8 +19,11 @@ Building real-world analytics projects and preparing for data-driven product env
 
 ### Featured Work
 
-**Spotify Data Analysis** → End-to-end analytics, business queries, query optimization  
-**Retail Sales Analysis** → Customer & revenue insights using SQL  
+**Customer Intelligence & Revenue Optimization System** → Segmented 3.9K+ users to identify high-value customers & improve retention
+**FNP Sales Dashboard** → Transformed 1K+ orders into actionable KPIs for revenue & performance tracking
+**Spotify Data Analysis** → Analyzed 20K+ records; optimized SQL queries (3.7 ms → 0.1 ms)
+**Netflix Data Analysis** → Uncovered user behavior & content performance trends from large datasets
+**Retail Sales Analysis** → Extracted customer & revenue insights from large-scale SQL datasets
 
 ---
 
