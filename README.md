@@ -40,7 +40,8 @@ Focused on SQL, analytics, and performance optimization—solving real problems 
 <!--START_SECTION:learning-->
 - Advanced SQL for Analytics  
 - Query performance tuning  
-- Data visualization (Power BI / Tableau)  
+- Data visualization (Power BI)
+- Data Science (AI & ML)
 <!--END_SECTION:learning-->
 
 ---
