@@ -60,3 +60,4 @@ Focused on SQL, analytics, and performance optimization—solving real problems 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kauz-vii/kauz-vii/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
